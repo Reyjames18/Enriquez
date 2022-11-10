@@ -1,0 +1,102 @@
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 10px 20px;
+   text-decoration: none;
+   font-size: 15px;
+   font-family: Georgia;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: gray;
+}
+
+.topnav a.active {
+	background-color: #ffa31a;
+	color: gray;
+}
+h1 {
+	text-align: center;
+	color: orange;
+	border: 9px solid orange;
+   }
+#pag1 {
+	font-family: verdana;
+	background:black;
+	border: 9px solid night;
+}
+#pag2 {
+	font-family: verdana;
+	background: blue;
+	border: 9px solid ocean;
+}
+#pag3 {
+	font-family: verdana;
+	background: green;
+	border: 9px solid forestgreen;
+}
+#pag4 {
+	font-family: verdana;
+	background: blue;
+	border: 9px solid skyblue;
+}
+body {
+	background: url(https://media4.giphy.com/media/poqnyDbavYXgA/giphy.gif);
+}
+table, th, td 
+     { border: 2px solid;
+     border-collapse: collapse;
+     border-color: green; 
+ }
+
+
+ th {
+ 	text-align: center;
+ 	border-collapse: collapse;
+ 	border-color: green;
+ }
+
+
+ td {text-align: center;
+ 	color: green;
+ }
+ table{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+img {
+	width: 100px;
+	height: 100px;
+}
+img:hover{
+	width: 200px;
+	height: 200px;
+}
+#index {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zVk5gt9RNDIq2hhtscVHm5v4QxnrjwMPiw&usqp=CAU);
+}
+#body1
+{
+	background-image: url(https://i.pinimg.com/originals/d9/af/b2/d9afb2f0c922f34cb6ae8ad219f53ca3.gif);
+}
+#body2{
+	background-image: url(https://media.tenor.com/6ZUs587t-_YAAAAM/blue-heart-black.gif);	
+}
+#body3{
+	background-image: url(http://31.media.tumblr.com/tumblr_m9f65ui8151rzjlc4o1_500.gif);
+}
+img {
+	width: 250px;
+	height: 250px;
+}
+h2 {
+	text-align: center;
+	color: gray;
+}
